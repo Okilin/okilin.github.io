@@ -21,7 +21,7 @@ Save the date for the
 ## Publications <a name="publications"></a>
 ---
 
-Publication 1
+**Max Musterman** , Author2, Author3, Author4 ...
 ---
 
 ## Blog <a name="blog"></a>
