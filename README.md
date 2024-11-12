@@ -5,7 +5,7 @@
 ## About me <a name="about"></a>
 ---
 
-Hello. My name is Nikolaus Helmer. I'm currently a PhD candidate at the [University of Graz](https://www.uni-graz.at/de/).
+Hello. My name is Nikolaus Helmer. This is a test-page for a following website. I'm currently a PhD candidate at the [University of Graz](https://www.uni-graz.at/de/).
 
 [University of Graz](https://www.uni-graz.at/de/) | [University of Graz](https://www.uni-graz.at/de/) | [University of Graz](https://www.uni-graz.at/de/)
 ---
@@ -13,7 +13,7 @@ Hello. My name is Nikolaus Helmer. I'm currently a PhD candidate at the [Univers
 ## News <a name="news"></a>
 ---
 
-Some News
+Save the date for the 
 ---
 
 ## Publications <a name="publications"></a>
