@@ -1,8 +1,8 @@
-[About Me]() | [News]() | [Publications]() | [Blog] ()
+[About Me](about) | [News](news) | [Publications](publications) | [Blog](blog)
 
 # Nikolaus Helmer
 
-## About me
+## About me <a name="about"></a>
 ---
 
 Hello. My name is Nikolaus Helmer. I'm currently a PhD candidate at the [University of Graz](https://www.uni-graz.at/de/).
@@ -10,19 +10,19 @@ Hello. My name is Nikolaus Helmer. I'm currently a PhD candidate at the [Univers
 [University of Graz](https://www.uni-graz.at/de/) | [University of Graz](https://www.uni-graz.at/de/) | [University of Graz](https://www.uni-graz.at/de/)
 ---
 
-## News
+## News <a name="news"></a>
 ---
 
 Some News
 ---
 
-## Publications
+## Publications <a name="publications"></a>
 ---
 
 Publication 1
 ---
 
-## Blog
+## Blog <a name="blog"></a>
 ---
 
 Blog Post 1
