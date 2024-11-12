@@ -1,4 +1,4 @@
-[About Me](about) | [News](news) | [Publications](publications) | [Blog](blog)
+[About Me](about) | [News](news) | [Publications](publications) | [Blog](blog) | [Contact](contact)
 
 # Nikolaus Helmer
 
@@ -26,3 +26,8 @@ Publication 1
 ---
 
 Blog Post 1
+
+## Contact
+Name <br>
+email <br>
+adress <br>
