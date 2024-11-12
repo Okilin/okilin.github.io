@@ -1,4 +1,4 @@
-[About Me](about) | [News](news) | [Publications](publications) | [Blog](blog) | [Contact](contact)
+[About Me](#about) | [News](#news) | [Publications](#publications) | [Blog](#blog) | [Contact](#contact)
 
 # Nikolaus Helmer
 
