@@ -2,7 +2,7 @@
 
 # Nikolaus Helmer
 
-<img src="profile.jpg" width="300" height="300">
+<img src="Kodaki_fuji_frm_shojinko.jpg" width="300" height="300">
 
 ## About me <a name="about"></a>
 ---
