@@ -33,7 +33,9 @@ Save the date for the
 
 ---
 
-Blog Post 1
+### Oranges
+Oranges are orange fruits. The blogpost will be about the colour orange and fruits. <br>
+[Link to full blog post](./blog/oranges.md)
 
 ## Contact
 Name <br>
