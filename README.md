@@ -1,3 +1,5 @@
+[About Me]() | [News]() | [Publications]() | [Blog] ()
+
 # Nikolaus Helmer
 
 ## About me
